@@ -8,6 +8,7 @@ venv/
 env/
 
 model/
+predict_images/*
 
 # Logs and data files
 *.log
