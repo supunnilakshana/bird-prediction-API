@@ -1,0 +1,38 @@
+# Compiled Python files
+__pycache__/
+
+# Environment and virtual environment files
+.env
+.venv/
+venv/
+env/
+
+model/
+
+# Logs and data files
+*.log
+*.csv
+*.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Compiled files and binaries
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Mac OS specific files
+.DS_Store
+
+# Python package files
+dist/
+build/
+*.egg-info/
